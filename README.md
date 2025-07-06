@@ -86,6 +86,7 @@ All generated plots will be saved in the `outputs/` folder and include visualiza
 **Team XPANSE**
 
 *(Priyanshu Biswas)*
+*(Rajdeep Chatterjee)*
 
 
 
