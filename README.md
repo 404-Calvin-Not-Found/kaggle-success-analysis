@@ -87,6 +87,7 @@ All generated plots will be saved in the `outputs/` folder and include visualiza
 
 *(Priyanshu Biswas)*
 *(Rajdeep Chatterjee)*
+*(Anuvab Das)*
 
 
 
